@@ -1,0 +1,12 @@
+{
+    "name": "carloscarucce/roman-algarisms",
+    "description": "Functions for converting roman algarisms to integer and vice versa",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "files": [
+            "src/int_to_roman.php",
+            "src/roman_to_int.php"
+        ]
+    }
+}
