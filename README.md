@@ -19,6 +19,6 @@ echo $roman; //XX
 
 Convert roman to integer
 ```php
-$number = int_to_roman('XIV');
+$number = roman_to_int('XIV');
 echo $number; //14
 ```
